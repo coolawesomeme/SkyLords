@@ -1,11 +1,11 @@
 MinecraftPlus
 =============
 
-A mod I am making for [Minecraft](http://minecraft.net), the hit indie game. [Here](http://www.minecraftforum.net/topic/1142468-) is some info.
+A new adventure game I am making. It will be blocky - Minecraft Style.
 
-The source files up are for **Minecraft+ r1b8**. *(The r is the release number, which changes every time a public release is made. The b is the build number, intended for internal use.)* This will update every time a commit is made to the source files.
-The mod is currently compatible with **Minecraft 1.2.5**.
+The source files are not yet up.
 
-The **MODUPDATE.txt** file lists the most recent version of the mod, which the Minecraft client checks for and compares it with the version of the mod currently installed on the machine. If they do not match, an update message pops up.
+The **UPDATE.txt** file lists the most recent public version of the game, which the SkyLords client checks for and compares it with the version of the game currently installed on the machine. If they do not match, an update message pops up.
+The **UPDATE2.txt** file lists the most recent internal release of the game, which the SkyLords client checks for and compares it with the version of the game currently installed on the machine. If they do not match, an update message pops up.
 
 ~coolawesomeme
