@@ -1,4 +1,4 @@
-MinecraftPlus
+SkyLords
 =============
 
 A new adventure game I am making. It will be blocky - Minecraft Style.
